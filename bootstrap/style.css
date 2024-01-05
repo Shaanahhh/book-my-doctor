@@ -1,0 +1,19 @@
+.container-fluid{
+    background-color: rgb(114, 200, 109);
+}
+.logo{
+    color: #fff;
+}
+.navbar-brand{
+    color: #fff;
+}
+#green{
+    background-color: rgb(174, 215, 171);
+    color: #fff;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
